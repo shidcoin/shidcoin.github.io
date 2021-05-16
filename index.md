@@ -36,8 +36,8 @@ i just shidded and farded and camed my pants
         });
         </script> 
         <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
-        <button class="w3-button w3-red" onclick="window.location.href='#'">Join the Reddit Community</button>
-        <button class="w3-button w3-blue" onclick="window.location.href='#'">Join the 4Chan Community</button>
+        <button class="w3-button w3-red" onclick="window.location.href='#'">Join Reddit</button>
+        <button class="w3-button w3-blue" onclick="window.location.href='#'">Join 4Chan</button>
 </div>
 
 ---
