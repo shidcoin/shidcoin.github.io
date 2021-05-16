@@ -12,7 +12,7 @@ i just shidded and farded and camed my pants
 
 ---
 
-### Add SHID to MetaMask!
+#### Add SHID to MetaMask!
 
 <div id="add_to_metamask">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -40,9 +40,7 @@ i just shidded and farded and camed my pants
     </script>
 </div>
 
----
-
-### Join our Discord Sever!
+#### Join our Discord Sever!
 <button class="w3-button w3-purple enableEthereumButton" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
 
 ---
