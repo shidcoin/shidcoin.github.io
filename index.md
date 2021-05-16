@@ -1,7 +1,7 @@
 ## Welcome to SHID coin
 
 <h1>This page has javascript that will attempt to add SHID to your MetaMask extension</h1>
-<img src='https://github.com/shidcoin/SHIDCOIN/raw/main/SRC/SHIDDED.jpeg' />
+<img src='https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg' />
 <br />
 <button class="enableEthereumButton">Enable Ethereum</button>
 
@@ -20,7 +20,7 @@ ethereum.request({
       address: '0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7',
       symbol: 'SHID',
       decimals: 18,
-      image: 'https://github.com/shidcoin/SHIDCOIN/raw/main/SRC/SHIDDED.jpeg',
+      image: 'https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg',
     },
   },
 });
