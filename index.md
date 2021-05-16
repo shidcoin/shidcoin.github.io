@@ -59,41 +59,40 @@ Half of the initial token supply will be given to Vitalik Buterin to donate to a
 
 ### Where can I purchase SHIDDED coin?
 
-- [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7)
-
 Quick Links:
-- [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1)
-- [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10)
-- [Buy 100 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=100)
-- [Buy 1,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1000)
-- [Buy 10,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10000)
-- [Buy 100,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=100000)
-- [Buy 1,00,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1000000)
+    - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7)
+    - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1)
+    - [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10)
+    - [Buy 100 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=100)
+    - [Buy 1,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1000)
+    - [Buy 10,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10000)
+    - [Buy 100,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=100000)
+    - [Buy 1,00,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1000000)
 
 ---
 
 ### How do I add SHIDDED coin to MetaMask
 
 The Best Way:
-- Open the following URL: []
-- Click Add to MetaMask Button
-- Click Accept in MetaMask
+    - Open the following URL: []
+    - Click Add to MetaMask Button
+    - Click Accept in MetaMask
 
 A Cool Way:
-- Download MetaMask Mobile App or Chrome extension
-- Click the following links which will bring you to a page to add SHID to Meta Mask. (This will be done via our own website in the future).
-    [] - Service provided by WatchToken at https://vittominacori.github.io/
-- Click 'View on Etherscan' to verify on the blockchain
-- Click 'Add to MetaMask'
+    - Download MetaMask Mobile App or Chrome extension
+    - Click the following links which will bring you to a page to add SHID to Meta Mask. (This will be done via our own website in the future).
+        [] - Service provided by WatchToken at https://vittominacori.github.io/
+    - Click 'View on Etherscan' to verify on the blockchain
+    - Click 'Add to MetaMask'
 
 The Manual Way:
-- Download MetaMask Mobile App or Chrome extension
-- Click 'Add Token'
-- Ensuure 'Custom Token' is selected
-- Paste the SHIDDED token address ''
-- Verify the token symbol 'SHID' comes up and the Decimalls of Precision are 18.
-- Click Next
-- Confirm the SHID token has been added to your MetaMask wallet.
+    - Download MetaMask Mobile App or Chrome extension
+    - Click 'Add Token'
+    - Ensuure 'Custom Token' is selected
+    - Paste the SHIDDED token address ''
+    - Verify the token symbol 'SHID' comes up and the Decimalls of Precision are 18.
+    - Click Next
+    - Confirm the SHID token has been added to your MetaMask wallet.
 
 ---
 
