@@ -42,7 +42,7 @@ i just shidded and farded and camed my pants
 
 ---
 
-#### What is SHIDDED coin?
+### What is SHIDDED coin?
 
 [Know your meme](https://knowyourmeme.com/memes/shidding-and-farding)
 
