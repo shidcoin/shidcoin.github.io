@@ -40,12 +40,12 @@ i just shidded and farded and camed my pants
     </script>
 </div>
 
-#### Join our Discord Sever!
+##### Join our Discord Sever!
 <button class="w3-button w3-purple enableEthereumButton" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
 
 ---
 
-### What is SHIDDED coin?
+#### What is SHIDDED coin?
 
 https://knowyourmeme.com/memes/shidding-and-farding
 
