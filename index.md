@@ -11,6 +11,7 @@ i just shidded and farded and camed my pants
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg)
 
 ---
+
 <div style="width:100%;">
     <div style="width:48%;">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
