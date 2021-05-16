@@ -1,4 +1,50 @@
 ## Welcome to SHID coin
+
+<h1>This page has javascript that will attempt to add SHID to your MetaMask extension</h1>
+<img src='https://github.com/shidcoin/SHIDCOIN/raw/main/SRC/SHIDDED.jpeg' />
+<br />
+<button class="enableEthereumButton">Enable Ethereum</button>
+
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+<script type='text/javascript'>
+const ethereumButton = document.querySelector('.enableEthereumButton');
+ethereumButton.addEventListener('click', () => {
+const modifyHtml = (html) => {
+  return html.replace('head data-n-head=""', 'head');
+};
+ethereum.request({
+  method: 'wallet_watchAsset',
+  params: {
+    type: 'ERC20',
+    options: {
+      address: '0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7',
+      symbol: 'SHID',
+      decimals: 18,
+      image: 'https://github.com/shidcoin/SHIDCOIN/raw/main/SRC/SHIDDED.jpeg',
+    },
+  },
+});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/shidcoin/shidcoin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
