@@ -1,4 +1,4 @@
-### SHIDDED coin
+### SHIDDED Coin
 
 ```markdown
 What if you wanted cryptocurrency in heaven
