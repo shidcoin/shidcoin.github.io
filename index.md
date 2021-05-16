@@ -12,6 +12,7 @@ i just shidded and farded and camed my pants
 
 ---
 
+### Add SHID to MetaMask!
 
 <div id="add_to_metamask">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
