@@ -57,7 +57,7 @@ Future transaction hash for the SHID transfer to Vitalik Buterin
 
 ---
 
-### What is the total supply of SHIDDED coin? Who owns it?
+### What is the total supply of SHIDDED coin in circulation? Who owns it?
 There were 500 Billion coins minted during the genesis of SHIDDED coin. Below is a breakdown as to how those coins were originally distributed.
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/distribution_breakdown.JPG)
 
