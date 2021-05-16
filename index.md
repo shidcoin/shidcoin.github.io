@@ -39,24 +39,18 @@ i just shidded and farded and camed my pants
 
 ---
 
-# Shidded coin [SHID]
-```
-What if you wanted cryptocurrency in heaven
-
-but god said 
-
-i just shidded and farded and camed my pants
-```
-![SHIDDED COIN](src/SHIDDED.jpeg)
+<iframe src="https://discordapp.com/widget?id=843538828856655872&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ---
 
 ### What is SHIDDED coin?
+
 https://knowyourmeme.com/memes/shidding-and-farding
 
 ---
 
 ### Why?
+
 because shidding diamonds sounds fun
 
 ---
@@ -77,6 +71,7 @@ Quick Links:
 ---
 
 ### How do I add SHIDDED coin to MetaMask
+
 The Best Way:
 - Open the following URL: []
 - Click Add to MetaMask Button
@@ -101,11 +96,13 @@ The Manual Way:
 ---
 
 ### How to increase the value of SHIDDED coin?
+
 Thanks to smart contracts, there is an automated algorithm that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest and a portion of transaction fees gained from SHID sales/purchases.
 
 ---
 
 ### How was SHIDDED coin created?
+
 Shidded coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of SHIDDED coin can be found [here](docs/shid_creation_steps.md).
 
 
