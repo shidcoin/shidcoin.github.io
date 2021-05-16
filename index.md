@@ -11,10 +11,8 @@ i just shidded and farded and camed my pants
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg)
 
 ---
-
 <div style="width:100%;">
     <div style="width:50%;">
-        #### Add SHID to MetaMask
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
         <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
@@ -40,7 +38,6 @@ i just shidded and farded and camed my pants
         </script>
     </div>
     <div style="width:50%;">
-        #### Join our Discord Server
         <button class="w3-button w3-purple enableEthereumButton" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
     </div>
 </div>
