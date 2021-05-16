@@ -53,7 +53,7 @@ https://knowyourmeme.com/memes/shidding-and-farding
 
 ### Why?
 
-because shidding diamonds sounds fun
+Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India Covid Relief fund on a similar scenario with SHIB coin.
 
 ---
 
