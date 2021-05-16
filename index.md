@@ -41,7 +41,8 @@ i just shidded and farded and camed my pants
 
 ---
 
-<iframe src="https://discordapp.com/widget?id=843538828856655872&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+### Join our Discord Sever!
+<button class="w3-button w3-purple enableEthereumButton" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
 
 ---
 
