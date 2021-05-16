@@ -13,7 +13,7 @@ i just shidded and farded and camed my pants
 
 <div style="width:100%;">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
+        <button class="w3-button w3-orange enableEthereumButton">Add SHID to MetaMask</button>
         <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
         <script type='text/javascript'>
         const ethereumButton = document.querySelector('.enableEthereumButton');
