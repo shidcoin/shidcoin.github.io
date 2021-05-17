@@ -37,21 +37,20 @@ i just shidded and farded and camed my pants
         </script> 
         <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
         <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShidToken/'">Join Reddit</button>
-        <button class="w3-button w3-blue" onclick="window.location.href='#'">Join 4Chan</button>
 </div>
 
 ---
 
 ### What is SHIDDED coin?
 
-[Know your meme](https://knowyourmeme.com/memes/shidding-and-farding)
+Shidded coin is a memecoin that is all about shidding, farding, and being able to camed your pants with friends. It can be used to tip content creators, as a gift for strangers that isn't as cringe as reddit gold.  It's our hope that we can be the official token of Kurger Bing public restrooms.  
 
 ---
 
 ### Why?
 
-This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. SHID coin will also allow investors an opportunity to realize capital gains in the form of Etherium.
-Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. I hope this will provide incentive for others to invest given he just [donated 1 billion dollars to the India COVID Relief](https://www.cnn.com/2021/05/13/business/ethereum-shiba-inu-india-covid-donation/index.html) fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
+This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. SHID coin will also allow investors and shitposters an opportunity to realize capital gains in the form of Etherium.
+Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. We hope this will provide incentive for others to invest given he just donated 9 billion dollars to the India COVID Relief fund on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
 ```
 Future transaction hash for the SHID transfer to Vitalik Buterin
 ```
@@ -98,7 +97,9 @@ The Manual Way:
 
 ### How to increase the value of SHIDDED coin?
 
-Thanks to smart contracts, there is an automated algorithm that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHIDD that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest and a portion of transaction fees gained from SHID transactions.
+Tell your friends, share SHID with them, make shidded memes.  Work with crypto jesus John Mcafee, mention Elon Musk a bunch on Twitter.
+
+Thanks to smart contracts, there is an automated algorithm that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHID that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest and a portion of transaction fees gained from SHID transactions.
 
 ---
 
