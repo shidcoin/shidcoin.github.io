@@ -26,7 +26,7 @@ i just shidded and farded and camed my pants
           params: {
             type: 'ERC20',
             options: {
-              address: '0x78525827e6b346059e3324e5def20ee1e90469d',
+              address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
               symbol: 'SHID',
               decimals: 18,
               image: 'https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg',
