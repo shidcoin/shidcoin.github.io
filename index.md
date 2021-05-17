@@ -65,7 +65,7 @@ There were 500 billion coins minted during the genesis of SHIDDED coin. Below is
 
 ### Where can I purchase SHIDDED coin?
 
-The quickest way to purchase Shidded coin is through [Dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ETC-20 tokens on [Etherium](https://ethereum.org/en/what-is-ethereum/)
+The quickest way to purchase Shidded coin is through [Dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Etherium](https://ethereum.org/en/what-is-ethereum/)
 - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7)
 - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1)
 - [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10)
