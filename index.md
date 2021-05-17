@@ -113,7 +113,7 @@ Simply put, the more SHIDDED coins purchased, the higher the price goes.
 
 Shidded coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of SHIDDED coin can be found [here](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/shid_creation_steps.md).
 [Open Zeppelin's ERC-20 token template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) was used to generate the Etherium smart contract. [Open Zeppelin](https://openzeppelin.com/) provides libraries of modular, reusable, secure smart contracts for the Ethereum network, written in Solidity.
-For more details see the [SHIDCOIN Github page](https://github.com/shidcoin/shidcoin).
+Please visit the [SHIDCOIN Github page](https://github.com/shidcoin/shidcoin) for further details.
 
 ---
 
