@@ -100,7 +100,7 @@ The Manual Way:
 
 Tell your friends, share SHID with them, make shidded memes.  Work with crypto jesus John Mcafee, mention Elon Musk a bunch on Twitter.
 
-[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm) are what determines 
+"[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm)" are what determines 
 the price of Shidded Coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
 which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book 
 with a system where assets can be automatically swapped against the pool's latest price.
