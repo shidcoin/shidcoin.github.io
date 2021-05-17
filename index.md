@@ -65,7 +65,7 @@ There were 500 billion coins minted during the genesis of SHIDDED coin. Below is
 
 ### Where can I purchase SHIDDED coin?
 
-The quickest way to purchase Shidded coin is through [Dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Etherium](https://ethereum.org/en/what-is-ethereum/).
+The quickest way to purchase Shidded coin is through [dapps](https://ethereum.org/en/developers/docs/dapps/) such as [Uniswap](https://uniswap.org/faq/). Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on [Etherium](https://ethereum.org/en/what-is-ethereum/).
 - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7)
 - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=1)
 - [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0xc3b78abb13c4aba76d8b370a9f83aeb948c692e7&exactField=output&exactAmount=10)
@@ -81,16 +81,16 @@ The quickest way to purchase Shidded coin is through [Dapps](https://ethereum.or
 
 The Best Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
-- Navigate to [https://shid.diamonds](https://shid.diamonds/)
+- Navigate to [shid.diamonds](https://shid.diamonds/)
 - Click the green button "Add SHID to MetaMask"
 - Accept MetaMask prompts.
 
 The Manual Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
-- Click 'Add Token'
-- Ensure 'Custom Token' is selected
-- Paste the SHIDDED token contract address ''
-- Verify the token symbol 'SHID' is displayed.
+- Click "Add Token"
+- Ensure "Custom Token" is selected
+- Paste the SHIDDED token contract address ""
+- Verify the token symbol "SHID" is displayed.
 - Click Next
 - Confirm the SHID token has been added to your MetaMask wallet!
 
@@ -100,7 +100,12 @@ The Manual Way:
 
 Tell your friends, share SHID with them, make shidded memes.  Work with crypto jesus John Mcafee, mention Elon Musk a bunch on Twitter.
 
-Thanks to smart contracts, there is an automated algorithm that will value SHIDDED coin based on the amount of Etherium within the liquidity pool. There is a ratio of Etherium to SHID that will move the price. As more Etherium is held within the liquidity pool, the price of SHID increases. Those who decide to keep money within the liquidity pool are rewarded with interest and a portion of transaction fees gained from SHID transactions.
+[Automated Market Makers](https://medium.com/multi-io/automated-market-makers-amm-breakdown-d3338f027230) are what determines 
+the worth of SHIDDED coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
+which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book 
+with a system where assets can be automatically swapped against the pool's latest price.
+
+Simply put, the more SHIDDED coins purchased, the higher the price goes.
 
 ---
 
