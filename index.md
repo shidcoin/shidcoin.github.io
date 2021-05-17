@@ -41,7 +41,7 @@ Shidded Coin is a memecoin that is all about shidding, farding, and being able t
 
 ### Why Invest?
 
-Shidded Coin will also investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
+Shidded Coin will allow investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
 Half of the initial token supply was sent to an Ethereum address controlled by Vitalik Buterin. This is done without any expectations but rather to demonstrate the willingness of founders to limit our stake of Shidded Coin. Vitalik can choose to donate, send, or do nothing. Since our decision was made without Vitalik's consent there are no expecations tied to him or the Ethereum address publically disclosed.
 ```
 Transaction details:
