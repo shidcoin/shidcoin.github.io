@@ -80,18 +80,19 @@ The quickest way to purchase Shidded coin is through [Dapps](https://ethereum.or
 ### How do I add SHIDDED coin to MetaMask
 
 The Best Way:
-- Ensure MetaMask Chrome extension is installed.
-- Open the following URL: [https://shid.diamonds](https://shid.diamonds/)
-- Click 'Add SHID to MetaMask'
+- [Download and install the MetaMask Chrome extension](https://metamask.io/download)
+- Navigate to [https://shid.diamonds](https://shid.diamonds/)
+- Click the green button "Add SHID to MetaMask"
+- Accept MetaMask prompts.
 
 The Manual Way:
-- Ensure MetaMask Chrome extension is installed.
+- [Download and install the MetaMask Chrome extension](https://metamask.io/download)
 - Click 'Add Token'
 - Ensure 'Custom Token' is selected
-- Paste the SHIDDED token address ''
-- Verify the token symbol 'SHID' comes up and the decimalls of precision are 18.
+- Paste the SHIDDED token contract address ''
+- Verify the token symbol 'SHID' is displayed.
 - Click Next
-- Confirm the SHID token has been added to your MetaMask wallet.
+- Confirm the SHID token has been added to your MetaMask wallet!
 
 ---
 
