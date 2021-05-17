@@ -50,7 +50,7 @@ Shidded coin is a memecoin that is all about shidding, farding, and being able t
 ### Why?
 
 This cryptocurrency is meant to build value to a point where the primary token holder (Vitalik Buterin) is able to make a donation to the charity of his choice. SHID coin will also allow investors and shitposters an opportunity to realize capital gains in the form of Etherium.
-Half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice. We hope this will provide incentive for others to invest given he just donated [1 billion dollars to the India COVID Relief fund](https://www.cnn.com/2021/05/13/business/ethereum-shiba-inu-india-covid-donation/index.html) on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) coin.
+Because half of the initial token supply will be given to Vitalik Buterin to donate to a charity of his choice; we hope this will create an incentive to investors given he just donated [1 billion dollars to the India COVID Relief fund](https://www.cnn.com/2021/05/13/business/ethereum-shiba-inu-india-covid-donation/index.html) on a similar scenario with [SHIB](https://coinmarketcap.com/currencies/shiba-inu/) token.
 ```
 Future transaction hash for the SHID transfer to Vitalik Buterin
 ```
