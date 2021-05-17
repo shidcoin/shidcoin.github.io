@@ -43,7 +43,7 @@ i just shidded and farded and camed my pants
 
 ### What is Shidded Coin?
 
-Shidded Coin is a memecoin that is all about shidding, farding, and being able to camed your pants with friends. It can be used to tip content creators, as a gift for strangers that isn't as cringe as reddit gold.  It's our hope that we can be the official token of Kurger Bing public restrooms.  
+Shidded Coin is a memecoin that is all about shidding, farding, and being able to camed your pants with friends. It can be used to tip content creators, as a gift for strangers, and isn't as cringe as reddit gold.  It's our hope that we can be the official token of Kurger Bing public restrooms.  
 
 ---
 
