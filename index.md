@@ -58,7 +58,7 @@ Future transaction hash for the SHID transfer to Vitalik Buterin
 ---
 
 ### What is the total supply of SHIDDED coin in circulation?
-There were 500 billion coins minted during the genesis of SHIDDED coin. Below is a breakdown as to how those coins were distributed.
+There were 500 billion coins minted during the genesis of Shidded coin. Below is a breakdown as to how those coins were distributed.
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/distribution_breakdown.JPG)
 
 ---
@@ -89,7 +89,7 @@ The Manual Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
 - Click "Add Token"
 - Ensure "Custom Token" is selected
-- Paste the SHIDDED token contract address ""
+- Paste the Shidded token contract address ""
 - Verify the token symbol "SHID" is displayed.
 - Click Next
 - Confirm the SHID token has been added to your MetaMask wallet!
@@ -101,17 +101,17 @@ The Manual Way:
 Tell your friends, share SHID with them, make shidded memes.  Work with crypto jesus John Mcafee, mention Elon Musk a bunch on Twitter.
 
 [Automated Market Makers](https://medium.com/multi-io/automated-market-makers-amm-breakdown-d3338f027230) are what determines 
-the price of SHIDDED coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
+the price of Shidded coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
 which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book 
 with a system where assets can be automatically swapped against the pool's latest price.
 
-Simply put, the more SHIDDED coins purchased, the higher the price goes.
+Simply put, the more Shidded coins purchased, the higher the price goes.
 
 ---
 
 ### How was SHIDDED coin created?
 
-Shidded coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of SHIDDED coin can be found [here](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/shid_creation_steps.md).
+Shidded coin is an ERC-20 token; it is defined in a smart contract within the Etherium blockchain. Complete documentation on the creation of Shidded coin can be found [here](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/shid_creation_steps.md).
 [Open Zeppelin's ERC-20 token template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) was used to generate the Etherium smart contract. [Open Zeppelin](https://openzeppelin.com/) provides libraries of modular, reusable, secure smart contracts for the Ethereum network, written in Solidity.
 Please visit the [SHIDCOIN Github page](https://github.com/shidcoin/shidcoin) for further details.
 
