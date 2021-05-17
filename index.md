@@ -1,13 +1,5 @@
 ### Shidded Coin
 
-```markdown
-What if you wanted cryptocurrency in heaven
-
-but god said 
-
-i just shidded and farded and camed my pants
-```
-
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg)
 
 
