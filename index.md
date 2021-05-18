@@ -41,8 +41,7 @@ Shidded Coin is a memecoin that is all about shidding, farding, and being able t
 
 ### Why Invest?
 
-Shidded Coin will allow investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
-
+Shidded Coin will allow investors and shitposters an opportunity to build the value of a new meme coin from the ground up and potentially realize capital gains in the form of Ethereum.
 
 ---
 
