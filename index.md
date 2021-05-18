@@ -42,11 +42,7 @@ Shidded Coin is a memecoin that is all about shidding, farding, and being able t
 ### Why Invest?
 
 Shidded Coin will allow investors and shitposters an opportunity to realize capital gains in the form of Ethereum.
-Half of the initial token supply was sent to an Ethereum address controlled by Vitalik Buterin. This is done without any expectations but rather to demonstrate the willingness of founders to limit our stake of Shidded Coin. Vitalik can choose to donate, send, or do nothing. Since our decision was made without Vitalik's consent there are no expecations tied to him or the Ethereum address publically disclosed.
-```
-Transaction details:
-https://etherscan.io/tx/0x900e809148fbf45d63ca93559fc225b4825823c82e1b6d3c45caef7709234ffc
-```
+
 
 ---
 
@@ -94,7 +90,7 @@ The Manual Way:
 
 Tell your friends, share SHID with them, make shidded memes.  Work with crypto jesus John Mcafee, mention Elon Musk a bunch on Twitter.
 
-"[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm)" determine
+[Automated Market Makers](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm) determine
 the price of Shidded Coin. Automated market makers are smart contracts that create a liquidity pool of ERC-20 tokens, 
 which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book 
 with a system where assets can be automatically swapped against the pool's latest price.
