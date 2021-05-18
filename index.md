@@ -21,7 +21,7 @@
               address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
               symbol: 'SHID',
               decimals: 18,
-              image: 'https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg',
+              image: 'https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg',
             },
           },
         });
