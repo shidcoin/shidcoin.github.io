@@ -1,6 +1,6 @@
 ### Shidded Coin
 
-![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/SHIDDED.jpeg)
+![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
 
 <div style="width:100%;">
