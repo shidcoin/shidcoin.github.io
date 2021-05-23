@@ -6,7 +6,7 @@
 
 ### A Shidded Coin Crowdsale is happening! 
 
-This is the first chance to purchase Shidded Coin and support getting it listed on [Uniswap](https://https://uniswap.org/)!
+This is the first chance to purchase Shidded Coin. Funds raised will be used to fund a liquidity pool on [Uniswap](https://https://uniswap.org/)!
 >[Click here for details](https://shid.diamonds/crowdsale)
 
 ---
