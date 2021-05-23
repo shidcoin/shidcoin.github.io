@@ -13,7 +13,8 @@
 
 ---
 
-###  Send ETH to the following address and receive SHID in return!
+###  How do I show support?
+#### Send ETH to the following address and receive SHID in return!
 ```0x9CA22680a8429722F6941cd3e3213cA683a33f45``` (or scan the QR code above)
 
 ---
