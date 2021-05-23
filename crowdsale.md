@@ -33,3 +33,6 @@
 - Crowdsale Smart Contract Creation: https://etherscan.io/tx/0x690d640a57af1699866fa908386ea9ab3757de93ba83abaef2e9e5c81d7ed777
 - Funding Contract Address with 21,000,000 SHID: https://etherscan.io/tx/0x91627e382beff8404f57efb5e139c1de2f1c0de4e82e338d9947cc39a69e58b1e
 
+**Help: I donated ETH, where are my Shidded Coins?**
+- Ensure the transaction is Successful.
+- Ensure SHID is has been added as a custom token. (See https://shid.diamonds/)
