@@ -14,7 +14,7 @@
 ---
 
 ###  Send ETH to the following address and receive SHID in return!
-```0x9CA22680a8429722F6941cd3e3213cA683a33f45```
+```0x9CA22680a8429722F6941cd3e3213cA683a33f45``` (or scan the QR code above)
 
 ---
 
@@ -34,9 +34,9 @@
 - If Ethereum's value is $2,200.00 per coin, Shidded Coin's value is $0.00052380952 per coin.
 
 **Transaction Log**
-- Crowdsale Contract Address: https://etherscan.io/address/0x9ca22680a8429722f6941cd3e3213ca683a33f45
-- Crowdsale Smart Contract Creation: https://etherscan.io/tx/0x690d640a57af1699866fa908386ea9ab3757de93ba83abaef2e9e5c81d7ed777
-- Funding Contract Address with 21,000,000 SHID: https://etherscan.io/tx/0x91627e382beff8404f57efb5e139c1de2f1c0de4e82e338d9947cc39a69e58b1e
+- Crowdsale Contract Address: [https://etherscan.io/address/0x9ca22680a8429722f6941cd3e3213ca683a33f45](https://etherscan.io/address/0x9ca22680a8429722f6941cd3e3213ca683a33f45)
+- Crowdsale Smart Contract Creation: [https://etherscan.io/tx/0x690d640a57af1699866fa908386ea9ab3757de93ba83abaef2e9e5c81d7ed777](https://etherscan.io/tx/0x690d640a57af1699866fa908386ea9ab3757de93ba83abaef2e9e5c81d7ed777)
+- Funding Contract Address with 21,000,000 SHID: [https://etherscan.io/tx/0x91627e382beff8404f57efb5e139c1de2f1c0de4e82e338d9947cc39a69e58b1e](https://etherscan.io/tx/0x91627e382beff8404f57efb5e139c1de2f1c0de4e82e338d9947cc39a69e58b1e)
 
 **Help: I donated ETH, where are my Shidded Coins?**
 - Ensure the transaction is Successful.
