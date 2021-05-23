@@ -4,7 +4,9 @@
 </center>
 <br />
 
-### We're raising 5 ETH for Liquidity Pools on Uniswap! Support us by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
+### We're raising 5 ETH for Liquidity Pools on Uniswap! 
+
+#### Support us by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
 
 
 
