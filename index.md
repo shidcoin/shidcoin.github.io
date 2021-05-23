@@ -4,7 +4,10 @@
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
 
-### A Shidded Coin Crowdsale is happening! [[Details](https://shid.diamonds/crowdsale)]
+### A Shidded Coin Crowdsale is happening! 
+#### This is the first chance to purchase Shidded Coin!
+#### [[Click here for details](https://shid.diamonds/crowdsale)]
+
 
 <div style="width:100%;">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
