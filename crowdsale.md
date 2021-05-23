@@ -22,7 +22,7 @@
 - New SHID: 420
 
 **Estimated Value**
-- If Ethereum's value is $2,200.00 per coin, Shidded Coin's value is $0.00052380952 per coin
+- If Ethereum's value is $2,200.00 per coin, Shidded Coin's value is $0.00052380952 per coin.
 
 **Transaction Log**
 - Crowdsale Contract Address: https://etherscan.io/address/0x9ca22680a8429722f6941cd3e3213ca683a33f45
