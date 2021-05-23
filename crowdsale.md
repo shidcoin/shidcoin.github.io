@@ -1,6 +1,6 @@
 ## A Shidded Coin Crowdsale
 <center>
-<img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg" width="100%"/>
+<img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg" width="300px"/>
 </center>
 <br />
 
