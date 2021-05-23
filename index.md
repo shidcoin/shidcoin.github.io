@@ -1,4 +1,5 @@
 ### Shidded Coin
+<script>document.getElementById("shidded-coin").style.display = "none";</script>
 
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
