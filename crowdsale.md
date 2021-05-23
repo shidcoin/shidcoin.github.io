@@ -1,4 +1,6 @@
-## A Shidded Coin Crowdsale
+### A Shidded Coin Crowdsale
+<script>document.getElementById("a-shidded-coin-crowdsale").style.display = "none";</script>
+
 <center>
 <img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg" width="300px"/>
 </center>
