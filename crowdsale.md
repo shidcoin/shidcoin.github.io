@@ -11,6 +11,7 @@
 #### Support us by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
 
 
+---
 
 ###  Send ETH to the following address and receive SHID in return!
 ```0x9CA22680a8429722F6941cd3e3213cA683a33f45```
