@@ -42,3 +42,6 @@
 **Help: I donated ETH, where are my Shidded Coins?**
 - Ensure the transaction is Successful.
 - Ensure SHID  has been added as a custom token to your Ethereum wallet. (See https://shid.diamonds/)
+
+
+[Smart Contract Details](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/crowdsale.md)
