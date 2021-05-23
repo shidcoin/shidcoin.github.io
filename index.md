@@ -7,7 +7,7 @@
 ### A Shidded Coin Crowdsale is happening! 
 
 This is the first chance to purchase Shidded Coin!
->>>[Click here for details](https://shid.diamonds/crowdsale)
+>[Click here for details](https://shid.diamonds/crowdsale)
 
 ---
 
