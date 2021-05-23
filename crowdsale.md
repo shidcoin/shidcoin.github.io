@@ -1,6 +1,6 @@
 ## We're raising 5 ETH for Liquidity Pools on Uniswap! 
 <center>
-!<img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg"/>
+!<img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg" style="width:100;"/>
 </center>
 <br />
 
