@@ -1,5 +1,5 @@
 ## We're raising 5 ETH for Liquidity Pools on Uniswap! 
-![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg)
+![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.png)
 
 ### Support us by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
 
