@@ -40,4 +40,4 @@
 
 **Help: I donated ETH, where are my Shidded Coins?**
 - Ensure the transaction is Successful.
-- Ensure SHID is has been added as a custom token. (See https://shid.diamonds/)
+- Ensure SHID  has been added as a custom token to your Ethereum wallet. (See https://shid.diamonds/)
