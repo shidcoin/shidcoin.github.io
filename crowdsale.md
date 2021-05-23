@@ -1,10 +1,10 @@
-## We're raising 5 ETH for Liquidity Pools on Uniswap! 
+## A Shidded Coin Crowdsale
 <center>
-<img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg" style="width:100;"/>
+<img src="https://github.com/shidcoin/SHIDCOIN/raw/main/src/Crowdsale1_QR.jpg" width="100%"/>
 </center>
 <br />
 
-### Support us by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
+### We're raising 5 ETH for Liquidity Pools on Uniswap! Support us by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
 
 
 
@@ -14,10 +14,11 @@
 ---
 
 **Logistics**
-- Raising 5 ETH for Liquidity Pools on Uniswap
+- We are raising 5 ETH for Liquidity Pools on Uniswap
 - Give 1 ETH, Receive 4200000 SHID
 - Donate any increment of Ethereum (as little as 1 Wei!)
-- Total SHID available for this crowd sale:  21000000 
+- Total SHID available for this Crowdsale:  21000000 
+- Once the cap has been reached, transactions will fail.
 
 **Example Purchase**
 - Current SHID: 0
