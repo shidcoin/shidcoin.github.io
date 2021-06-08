@@ -63,11 +63,11 @@ There were 500 billion coins minted during the genesis of Shidded coin.
 ---
 
 ### Where can I purchase Shidded Coin?
-The best way to buy Shidded Coin is currently through our current [Crowdsale](https://shid.diamonds/crowdsale).
+The best way to buy Shidded Coin at a value is through our current [Crowdsale](https://shid.diamonds/crowdsale).
+- [Crowdsale Link](https://shid.diamonds/crowdsale)
 
-Soon, Uniswap will be the first exchange to sell Shidded Coin.
-
-Future Quick Links (Pending Liquidity):
+Additionally, we are listed on Uniswap. All proceeds from the crowdsale will be used to fund the liquidity pool on Uniswap!
+Uniswap Purchase Links:
 - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2)
 - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1)
 - [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=10)
