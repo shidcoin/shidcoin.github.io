@@ -7,10 +7,10 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 
 <!-- Add SHID to MetaMask -->
 <button class="purchase_button w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
-<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 <script type='text/javascript'>
     const ethereumButton = document.querySelector('.enableEthereumButton');
     ethereumButton.addEventListener('click', () => {
