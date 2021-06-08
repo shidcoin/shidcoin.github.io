@@ -1,11 +1,13 @@
 ### Shidded Coin
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
+https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2
+
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 
 <!-- Add SHID to MetaMask -->
-<button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
+<button class="purchase_button w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 <script type='text/javascript'>
     const ethereumButton = document.querySelector('.enableEthereumButton');
