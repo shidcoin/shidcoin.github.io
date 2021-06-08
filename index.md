@@ -6,11 +6,10 @@
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
 <center>
-    <button class="crowdsale_button w3-full w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">
+    <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">
         Shidded Coin Crowdsale!
-        <span class="w3-xsmall w3-badge w3-margin-left">Discounts!</span>
     </button>
-    <button class="crowdsale_button w3-full w3-button w3-dark-gray" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">
+    <button class="crowdsale_button w3-third w3-button w3-dark-gray" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">
         Purchase Shidded Coin on Uniswap!
     </button>
 </center>
