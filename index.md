@@ -39,8 +39,9 @@ This is the first chance to purchase Shidded Coin. Funds raised will be used to 
         });
         });
         </script> 
-        <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Join Discord</button>
-        <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'">Join Reddit</button>
+        <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Discord</button>
+        <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'">Reddit</button>
+        <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'">Instagram</button>
 </div>
 
 ---
