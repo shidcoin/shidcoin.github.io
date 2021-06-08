@@ -39,16 +39,16 @@
 <!-- Purchase Cards -->
 <center>
 <div class="w3-row">
-    <div class="w3-half w3-card-4" style="width:45%">
+    <div class="w3-half w3-card-4">
         <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
             <p>
-                Purchase SHID at a discounted rate!<br />
+                Purchase SHID at a discount!!<br />
                 <button class="crowdsale_button w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Purchase via Crowdsale!</button>
             </p>
         </div>
     </div>
-    <div class="w3-half w3-card-4" style="width:45%">
+    <div class="w3-half w3-card-4">
         <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
             <p>
