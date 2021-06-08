@@ -36,37 +36,7 @@
 </style>
 
 
-<!-- Purchase Cards -->
-<center>
-<div class="w3-row">
-    <div class="w3-half w3-card-4 w3-padding">
-        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:98%; height:300px;">
-        <div class="w3-container w3-center">
-            <br />
-            <p>
-                <button class="crowdsale_button w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Purchase via Crowdsale!</button>
-            </p>
-        </div>
-    </div>
-    <div class="w3-half w3-card-4 w3-padding">
-        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:98%; height:300px;">
-        <div class="w3-container w3-center">
-            <br />
-            <p>
-                <button class="crowdsale_button w3-button w3-dark-gray" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">Purchase via Uniswap!</button>
-            </p>
-        </div>
-    </div>
-</div>
-</center>
 
-
-
-<style>
-.crowdsale_button {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
-</style>
 
 <br clear="all" />
 
@@ -101,20 +71,35 @@ There were 500 billion coins minted during the genesis of Shidded coin.
 ---
 
 ### Where can I purchase Shidded Coin?
-The best way to buy Shidded Coin at a value is through our current [Crowdsale](https://shid.diamonds/crowdsale).
-- [Crowdsale Link](https://shid.diamonds/crowdsale)
-
-Additionally, we are listed on Uniswap. All proceeds from the crowdsale will be used to fund the liquidity pool on Uniswap!
-
-Uniswap Purchase Links:
-- [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2)
-- [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1)
-- [Buy 10 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=10)
-- [Buy 100 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=100)
-- [Buy 1,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1000)
-- [Buy 10,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=10000)
-- [Buy 100,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=100000)
-- [Buy 1,00,000 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1000000)
+<!-- Purchase Cards -->
+<center>
+<div class="w3-row">
+    <div class="w3-half w3-card-4 w3-padding">
+        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:98%; height:300px;">
+        <div class="w3-container w3-center">
+            <br />
+            <p>
+                <button class="purchase_button w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Purchase via Crowdsale!</button>
+            </p>
+        </div>
+    </div>
+    <div class="w3-half w3-card-4 w3-padding">
+        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:98%; height:300px;">
+        <div class="w3-container w3-center">
+            <br />
+            <p>
+                <button class="purchase_button w3-button w3-dark-gray" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">Purchase via Uniswap!</button>
+            </p>
+        </div>
+    </div>
+</div>
+</center>
+<style>
+.purchase_button {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+</style>
+<br clear="all" />
 
 ---
 
