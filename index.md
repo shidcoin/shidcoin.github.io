@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
 ### Shidded Coin
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
