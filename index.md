@@ -1,11 +1,43 @@
 ### Shidded Coin
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<script>document.getElementById("shidded-coin").style.display = "none";</script>
-
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<script>document.getElementById("shidded-coin").style.display = "none";</script>
+<button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+<script type='text/javascript'>
+    const ethereumButton = document.querySelector('.enableEthereumButton');
+    ethereumButton.addEventListener('click', () => {
+    const modifyHtml = (html) => {
+      return html.replace('head data-n-head=""', 'head');
+    };
+    ethereum.request({
+      method: 'wallet_watchAsset',
+      params: {
+        type: 'ERC20',
+        options: {
+          address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
+          symbol: 'SHID',
+          decimals: 18,
+          image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
+        },
+      },
+    });
+    });
+</script>
+<style>
+.enableEthereumButton {
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
+</style>
+
+
+
 <center>
-    <div class="w3-card-4" style="width:48%">
+    <div class="w3-card-4" style="width:45%">
         <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
             <p>
@@ -14,7 +46,7 @@
             </p>
         </div>
     </div>
-    <div class="w3-card-4" style="width:48%">
+    <div class="w3-card-4" style="width:45%">
         <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
             <p>
@@ -38,28 +70,6 @@
 ---
 <center>
 <div style="width:100%;">
-        <button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
-        <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
-        <script type='text/javascript'>
-        const ethereumButton = document.querySelector('.enableEthereumButton');
-        ethereumButton.addEventListener('click', () => {
-        const modifyHtml = (html) => {
-          return html.replace('head data-n-head=""', 'head');
-        };
-        ethereum.request({
-          method: 'wallet_watchAsset',
-          params: {
-            type: 'ERC20',
-            options: {
-              address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
-              symbol: 'SHID',
-              decimals: 18,
-              image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
-            },
-          },
-        });
-        });
-        </script> 
         <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'">Discord</button>
         <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'">Reddit</button>
         <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'">Instagram</button>
