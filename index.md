@@ -5,18 +5,30 @@
 </center>
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
+<style>
+.purchase_button {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.add_shid_to_metamask {
+    position: fixed;
+    right: 100px;
+    top: 50px;
+}
+</style>
+
 
 
 <!-- Add SHID to MetaMask -->
 <button class="enableEthereumButton purchase_button addShidStyle w3-button w3-green">Add SHID to MetaMask</button>
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
-<script type='text/javascript'>
+<script type="text/javascript">
     const ethereumButton = document.querySelector('.enableEthereumButton');
     ethereumButton.addEventListener('click', () => {
         const modifyHtml = (html) => {
-          return html.replace('head data-n-head=""', 'head');
+            return html.replace('head data-n-head=""', 'head');
         };
         ethereum.request({
             method: 'wallet_watchAsset',
@@ -32,17 +44,10 @@
         });
     });
 </script>
-<style>
-.addShidStyle {
-    position: fixed;
-    right: 100px;
-    top: 50px;
-}
-</style>
 
 ---
+
 <!-- Social Platforms -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <center>
     <h6>Social Platforms:</h6>
     <div style="width:100%;">
@@ -51,6 +56,7 @@
             <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'"><i class="fa fa-instagram"></i> Instagram</button>
     </div>
 </center>
+
 ---
 
 ### What is Shidded Coin?
@@ -94,11 +100,6 @@ There were 500 billion coins minted during the genesis of Shidded coin.
     </div>
 </div>
 </center>
-<style>
-.purchase_button {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
-</style>
 <br clear="all" />
 
 ---
