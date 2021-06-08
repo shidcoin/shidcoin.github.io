@@ -1,7 +1,7 @@
 ### Shidded Coin
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 <center>
-<a href="https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2">https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2</a>
+<a target="_blank" href="https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2">https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2</a>
 </center>
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
