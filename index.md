@@ -6,6 +6,22 @@
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
 <center>
+    <div class="w3-card-4" style="width:50%">
+        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%">
+        <div class="w3-container w3-center">
+            <p>
+                Purchase SHID at a discounted rate via our Crowdsale! <br />
+                <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Shidded Coin Crowdsale!</button>
+            </p>
+        </div>
+    </div>
+
+
+
+https://i.redd.it/ap5cyb8yax071.png
+
+https://i.redd.it/9euxz0oc5uz61.png
+
     <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">
         Shidded Coin Crowdsale!
     </button>
