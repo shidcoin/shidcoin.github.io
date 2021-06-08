@@ -44,4 +44,4 @@
 
 ---
 
-[shid.diamonds](https://shid.diamonds)
+[back to shid.diamonds](https://shid.diamonds)
