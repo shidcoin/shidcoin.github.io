@@ -8,7 +8,7 @@
 
 ### We're raising 5 ETH for Liquidity Pools on [Uniswap](https://https://uniswap.org/)! 
 
-#### Show support by purchasing Shidded Coin; all funds raised will be used to grow the coin's value by listing it on one of the top decentralized exchanges!
+#### Show support by purchasing Shidded Coin; all funds raised will added to the Uniswap liquidity pool!
 
 
 ---
@@ -41,3 +41,7 @@
 ---
 
 [Smart Contract Details](https://github.com/shidcoin/SHIDCOIN/blob/main/docs/crowdsale.md)
+
+---
+
+[Back to shid.diamonds](https://shid.diamonds)
