@@ -31,13 +31,7 @@
     });
     });
 </script>
-<style>
-.enableEthereumButton {
-    position: fixed;
-    right: 100px;
-    top: 50px;
-}
-</style>
+
 
 ---
 <!-- Social Platforms -->
