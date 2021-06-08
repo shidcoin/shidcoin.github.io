@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 ### Shidded Coin
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 
@@ -7,12 +9,14 @@
 ### A Shidded Coin Crowdsale is happening! 
 
 This is the first chance to purchase Shidded Coin. Funds raised will be used to fill a liquidity pool on [Uniswap](https://https://uniswap.org/)!
+
+<a class="w3-spin" href="https://shid.diamonds/crowdsale">Crowdsale</a>
+
 >[Click here for details](https://shid.diamonds/crowdsale)
 
 ---
 
 <div style="width:100%;">
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
         <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
         <script type='text/javascript'>
