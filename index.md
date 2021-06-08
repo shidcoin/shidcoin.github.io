@@ -14,23 +14,23 @@
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 <script type='text/javascript'>
     const ethereumButton = document.querySelector('.enableEthereumButton');
-        ethereumButton.addEventListener('click', () => {
+    ethereumButton.addEventListener('click', () => {
         const modifyHtml = (html) => {
           return html.replace('head data-n-head=""', 'head');
         };
         ethereum.request({
-          method: 'wallet_watchAsset',
-          params: {
-            type: 'ERC20',
-            options: {
-              address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
-              symbol: 'SHID',
-              decimals: 18,
-              image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
+            method: 'wallet_watchAsset',
+            params: {
+                type: 'ERC20',
+                options: {
+                    address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
+                    symbol: 'SHID',
+                    decimals: 18,
+                    image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
+                },
             },
-          },
         });
-        });
+    });
 </script>
 <style>
 .addShidStyle {
