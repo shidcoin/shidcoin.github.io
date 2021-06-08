@@ -35,8 +35,9 @@
 </style>
 
 
-
+<!-- Social Platforms -->
 <center>
+    <h6>Social Platforms:</h6>
     <div class="w3-card-4" style="width:45%">
         <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
