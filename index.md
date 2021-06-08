@@ -67,6 +67,7 @@ The best way to buy Shidded Coin at a value is through our current [Crowdsale](h
 - [Crowdsale Link](https://shid.diamonds/crowdsale)
 
 Additionally, we are listed on Uniswap. All proceeds from the crowdsale will be used to fund the liquidity pool on Uniswap!
+
 Uniswap Purchase Links:
 - [Buy through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2)
 - [Buy 1 SHID through Uniswap](https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2&exactField=output&exactAmount=1)
