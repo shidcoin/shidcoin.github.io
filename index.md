@@ -31,7 +31,7 @@ This is the first chance to purchase Shidded Coin. Funds raised will be used to 
               address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
               symbol: 'SHID',
               decimals: 18,
-              image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png',
+              image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
             },
           },
         });
