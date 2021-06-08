@@ -6,7 +6,7 @@
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
 
 <center>
-    <div class="w3-card-4" style="width:50%">
+    <div class="w3-card-4" style="width:48%">
         <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
             <p>
@@ -15,7 +15,7 @@
             </p>
         </div>
     </div>
-    <div class="w3-card-4" style="width:50%">
+    <div class="w3-card-4" style="width:48%">
         <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%">
         <div class="w3-container w3-center">
             <p>
@@ -37,7 +37,7 @@
 <br clear="all" />
 
 ---
-
+<center>
 <div style="width:100%;">
         <button class="w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
         <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
@@ -65,7 +65,7 @@
         <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'">Reddit</button>
         <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'">Instagram</button>
 </div>
-
+</center>
 ---
 
 ### What is Shidded Coin?
