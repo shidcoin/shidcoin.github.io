@@ -13,7 +13,7 @@
 <button class="purchase_button w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
 <script type='text/javascript'>
     const ethereumButton = document.querySelector('.enableEthereumButton');
-    ethereumButton.addEventListener('click', ()) => {
+    ethereumButton.addEventListener('click', () => {
     const modifyHtml = (html) => {
       return html.replace('head data-n-head=""', 'head');
     };
