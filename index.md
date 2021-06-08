@@ -40,7 +40,7 @@
 <center>
 <div class="w3-row">
     <div class="w3-half w3-card-4">
-        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%; object-fit:cover;">
+        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%;  height:200px; object-fit:cover;">
         <div class="w3-container w3-center">
             <p>
                 <button class="crowdsale_button w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Purchase via Crowdsale!</button>
@@ -48,7 +48,7 @@
         </div>
     </div>
     <div class="w3-half w3-card-4">
-        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%; object-fit:cover;">
+        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%; height:200px; object-fit:cover;">
         <div class="w3-container w3-center">
             <p>
                 <button class="crowdsale_button w3-button w3-dark-gray" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">Purchase via Uniswap!</button>
