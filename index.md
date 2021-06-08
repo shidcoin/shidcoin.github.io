@@ -10,9 +10,7 @@
 
 This is the first chance to purchase Shidded Coin. Funds raised will be used to fill a liquidity pool on [Uniswap](https://https://uniswap.org/)!
 
-<a class="w3-spin" href="https://shid.diamonds/crowdsale">Crowdsale</a>
-
->[Click here for details](https://shid.diamonds/crowdsale)
+<button class="w3-full w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Shidded Coin Crowdsale!</button>
 
 ---
 
