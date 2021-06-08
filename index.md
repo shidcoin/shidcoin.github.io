@@ -39,7 +39,7 @@
 <!-- Purchase Cards -->
 <center>
 <div class="w3-row">
-    <div class="w3-half w3-card-4">
+    <div class="w3-half w3-card-4 w3-padding">
         <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%; height:300px;">
         <div class="w3-container w3-center">
             <br />
@@ -48,7 +48,7 @@
             </p>
         </div>
     </div>
-    <div class="w3-half w3-card-4">
+    <div class="w3-half w3-card-4 w3-padding">
         <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%; height:300px;">
         <div class="w3-container w3-center">
             <br />
