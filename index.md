@@ -35,6 +35,9 @@ https://i.redd.it/9euxz0oc5uz61.png
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 </style>
+
+<br clear="all" />
+
 ---
 
 <div style="width:100%;">
