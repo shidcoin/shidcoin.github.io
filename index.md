@@ -28,9 +28,9 @@
 </script>
 <style>
 .enableEthereumButton {
-    position: absolute;
+    position: fixed;
     right: 100px;
-    top: 100px;
+    top: 50px;
 }
 </style>
 
