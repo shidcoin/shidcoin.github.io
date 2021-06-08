@@ -73,7 +73,7 @@
 <center>
     <h6>Social Platforms:</h6>
     <div style="width:100%;">
-            <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'"><i class='fab fa-discord' /> Discord</button>
+            <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'"><i class='fab fa-discord'></i> Discord</button>
             <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'">Reddit</button>
             <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'">Instagram</button>
     </div>
