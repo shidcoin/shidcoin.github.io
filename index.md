@@ -58,8 +58,7 @@ Shidded Coin will allow investors and shitposters an opportunity to build the va
 ---
 
 ### What is the total supply of Shidded Coin in circulation?
-There were 500 billion coins minted during the genesis of Shidded coin. Below is a breakdown as to how those coins were distributed.
-![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/distribution_breakdown.JPG)
+There were 500 billion coins minted during the genesis of Shidded coin.
 
 ---
 
@@ -92,7 +91,7 @@ The Manual Way:
 - [Download and install the MetaMask Chrome extension](https://metamask.io/download)
 - Click "Add Token"
 - Ensure "Custom Token" is selected
-- Paste the Shidded token contract address "0x78525827e6b346059e3324e5def20ee1e90469d2"
+- Paste the Shidded token contract address ```0x78525827e6b346059e3324e5def20ee1e90469d2```
 - Verify the token symbol "SHID" is displayed.
 - Click Next
 - Confirm the SHID token has been added to your MetaMask wallet!
