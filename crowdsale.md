@@ -28,7 +28,7 @@
 
 **Example Purchase**
 - Current SHID: 0
-- Sending 0.0001 Ethereum to 0x9CA22680a8429722F6941cd3e3213cA683a33f45
+- Sending 0.0001 Ethereum to ```0x9CA22680a8429722F6941cd3e3213cA683a33f45```
 - New SHID: 420
 
 **Estimated Value**
@@ -44,4 +44,4 @@
 
 ---
 
-[Back to shid.diamonds](https://shid.diamonds)
+[shid.diamonds](https://shid.diamonds)
