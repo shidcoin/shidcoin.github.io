@@ -5,6 +5,7 @@
 </center>
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 
 <!-- Add SHID to MetaMask -->
@@ -44,7 +45,7 @@
 <center>
     <h6>Social Platforms:</h6>
     <div style="width:100%;">
-            <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'"><i class='fa-brands fa-discord'></i> Discord</button>
+            <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'"><i class='fab fa-discord'></i> Discord</button>
             <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'"><i class="fa fa-reddit"></i> Reddit</button>
             <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'"><i class="fa fa-instagram"></i> Instagram</button>
     </div>
