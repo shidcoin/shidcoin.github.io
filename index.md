@@ -15,20 +15,18 @@
             </p>
         </div>
     </div>
-
-
-
-https://i.redd.it/ap5cyb8yax071.png
-
-https://i.redd.it/9euxz0oc5uz61.png
-
-    <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">
-        Shidded Coin Crowdsale!
-    </button>
-    <button class="crowdsale_button w3-third w3-button w3-dark-gray" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">
-        Purchase Shidded Coin on Uniswap!
-    </button>
+    <div class="w3-card-4" style="width:50%">
+        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%">
+        <div class="w3-container w3-center">
+            <p>
+                Purchase SHID via the Uniswap Exchange! <br />
+                <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">Purchase via Uniswap!</button>
+            </p>
+        </div>
+    </div>
 </center>
+
+
 
 <style>
 .crowdsale_button {
