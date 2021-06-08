@@ -10,29 +10,29 @@
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 
 <!-- Add SHID to MetaMask -->
-<button class="purchase_button w3-button w3-green enableEthereumButton">Add SHID to MetaMask</button>
+<button class="enableEthereumButton purchase_button addShidStyle w3-button w3-green">Add SHID to MetaMask</button>
 <script type='text/javascript'>
     const ethereumButton = document.querySelector('.enableEthereumButton');
-    ethereumButton.addEventListener('click', () => {
-    const modifyHtml = (html) => {
-      return html.replace('head data-n-head=""', 'head');
-    };
-    ethereum.request({
-      method: 'wallet_watchAsset',
-      params: {
-        type: 'ERC20',
-        options: {
-          address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
-          symbol: 'SHID',
-          decimals: 18,
-          image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
-        },
-      },
-    });
-    });
+        ethereumButton.addEventListener('click', () => {
+        const modifyHtml = (html) => {
+          return html.replace('head data-n-head=""', 'head');
+        };
+        ethereum.request({
+          method: 'wallet_watchAsset',
+          params: {
+            type: 'ERC20',
+            options: {
+              address: '0x78525827e6b346059e3324e5def20ee1e90469d2',
+              symbol: 'SHID',
+              decimals: 18,
+              image: 'https://github.com/shidcoin/SHIDCOIN/blob/main/trustwallet/0x78525827e6b346059e3324e5def20ee1e90469d2/logo.png?raw=true',
+            },
+          },
+        });
+        });
 </script>
 <style>
-.enableEthereumButton {
+.addShidStyle {
     position: fixed;
     right: 100px;
     top: 50px;
