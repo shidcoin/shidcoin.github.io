@@ -11,7 +11,7 @@
         <div class="w3-container w3-center">
             <p>
                 Purchase SHID at a discounted rate via our Crowdsale! <br />
-                <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Shidded Coin Crowdsale!</button>
+                <button class="crowdsale_button w3-button w3-red" onclick="window.location.href='https://shid.diamonds/crowdsale'">Shidded Coin Crowdsale!</button>
             </p>
         </div>
     </div>
@@ -20,7 +20,7 @@
         <div class="w3-container w3-center">
             <p>
                 Purchase SHID via the Uniswap Exchange! <br />
-                <button class="crowdsale_button w3-third w3-button w3-red" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">Purchase via Uniswap!</button>
+                <button class="crowdsale_button w3-button w3-red" onclick="window.location.href='https://app.uniswap.org/#/swap?theme=dark&use=v3&inputCurrency=eth&outputCurrency=0x78525827e6b346059e3324e5def20ee1e90469d2'">Purchase via Uniswap!</button>
             </p>
         </div>
     </div>
