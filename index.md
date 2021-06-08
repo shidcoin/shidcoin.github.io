@@ -1,7 +1,8 @@
 ### Shidded Coin
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
+<center>
 [https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2](https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2)
-
+</center>
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
