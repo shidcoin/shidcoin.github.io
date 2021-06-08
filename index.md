@@ -40,7 +40,7 @@
 <center>
 <div class="w3-row">
     <div class="w3-half w3-card-4">
-        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%;  height:400px; object-fit:cover;">
+        <img src="https://i.redd.it/ap5cyb8yax071.png" alt="Crowdsale" style="width:100%;  height:350px; object-fit:cover;">
         <div class="w3-container w3-center">
             <br />
             <p>
@@ -49,7 +49,7 @@
         </div>
     </div>
     <div class="w3-half w3-card-4">
-        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%; height:400px; object-fit:cover;">
+        <img src="https://i.redd.it/9euxz0oc5uz61.png" alt="Crowdsale" style="width:100%; height:350px; object-fit:cover;">
         <div class="w3-container w3-center">
             <br />
             <p>
