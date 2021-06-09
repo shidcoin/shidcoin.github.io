@@ -10,8 +10,9 @@
 
 
 <!-- Add SHID to MetaMask -->
-
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js">
+<button class="enableEthereumButton purchase_button add_shid_to_metamask w3-button w3-green">Add SHID to MetaMask</button>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+<script type="text/javascript">
     const ethereumButton = document.querySelector('.enableEthereumButton');
     ethereumButton.addEventListener('click', () => {
         const modifyHtml = (html) => {
@@ -32,7 +33,7 @@
     });
 </script>
 
-<button class="enableEthereumButton purchase_button add_shid_to_metamask w3-button w3-green">Add SHID to MetaMask</button>
+
 <style>
     .purchase_button {
       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
