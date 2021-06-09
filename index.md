@@ -8,22 +8,10 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 
-<style>
-    .purchase_button {
-      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    }
-    .add_shid_to_metamask {
-        position: fixed;
-        right: 100px;
-        top: 50px;
-    }
-</style>
-
-
 
 <!-- Add SHID to MetaMask -->
 
-<script type="text/javascript">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js">
     const ethereumButton = document.querySelector('.enableEthereumButton');
     ethereumButton.addEventListener('click', () => {
         const modifyHtml = (html) => {
@@ -43,9 +31,18 @@
         });
     });
 </script>
-<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
-<button class="enableEthereumButton purchase_button add_shid_to_metamask w3-button w3-green">Add SHID to MetaMask</button>
 
+<button class="enableEthereumButton purchase_button add_shid_to_metamask w3-button w3-green">Add SHID to MetaMask</button>
+<style>
+    .purchase_button {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+    .add_shid_to_metamask {
+        position: fixed;
+        right: 100px;
+        top: 50px;
+    }
+</style>
 
 ---
 
