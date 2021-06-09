@@ -1,11 +1,12 @@
 ### Shidded Coin
 ![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
+
 <center>
 <a target="_blank" href="https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2">https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2</a>
 </center>
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 <style>
@@ -51,6 +52,7 @@
     <h6>Social Platforms:</h6>
     <div style="width:100%;">
             <button class="w3-button w3-purple" onclick="window.location.href='https://discord.gg/N8fHVXgU5C'"><i class='fab fa-discord'></i> Discord</button>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
             <button class="w3-button w3-red" onclick="window.location.href='https://www.reddit.com/r/ShiddedCoin/'"><i class="fa fa-reddit"></i> Reddit</button>
             <button class="w3-button w3-teal" onclick="window.location.href='https://www.instagram.com/shiddedcoin/'"><i class="fa fa-instagram"></i> Instagram</button>
     </div>
