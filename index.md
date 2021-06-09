@@ -1,5 +1,13 @@
-<head>
-<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+### Shidded Coin
+![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
+<center>
+<a target="_blank" href="https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2">https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2</a>
+</center>
+
+
+
+
+
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
@@ -11,17 +19,15 @@
         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     }
 </style>
-</head>
 
-### Shidded Coin
-![Image](https://github.com/shidcoin/SHIDCOIN/raw/main/src/shid_coin.jpg)
-<center>
-<a target="_blank" href="https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2">https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2</a>
-</center>
+
+
+
 
 
 <!-- Add SHID to MetaMask -->
 <button class="enableEthereumButton add_shid_to_metamask w3-button w3-green">Add SHID to MetaMask</button>
+
 <script type="text/javascript">
     const ethereumButton = document.querySelector('.enableEthereumButton');
     ethereumButton.addEventListener('click', () => {
@@ -42,6 +48,8 @@
         });
     });
 </script>
+
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 
 
 
