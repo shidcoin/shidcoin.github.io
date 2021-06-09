@@ -6,9 +6,8 @@
 </center>
 <script>document.getElementById("shidded-coin").style.display = "none";</script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+
 <style>
     .purchase_button {
       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -44,6 +43,7 @@
     });
 </script>
 <button class="enableEthereumButton purchase_button add_shid_to_metamask w3-button w3-green">Add SHID to MetaMask</button>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 
 ---
 
