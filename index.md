@@ -4,11 +4,6 @@
 <a target="_blank" href="https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2">https://etherscan.io/token/0x78525827e6b346059e3324e5def20ee1e90469d2</a>
 </center>
 
-
-
-
-
-<script>document.getElementById("shidded-coin").style.display = "none";</script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <style>
@@ -156,3 +151,7 @@ Please visit the [SHIDCOIN Github page](https://github.com/shidcoin/shidcoin) fo
 ### Support or Contacts
 
 i just shidded and farded and camed my pants
+
+
+
+<script>document.getElementById("shidded-coin").style.display = "none";</script>
